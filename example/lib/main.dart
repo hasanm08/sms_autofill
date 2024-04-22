@@ -23,7 +23,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  String _code="";
+  String _code = "";
   String signature = "{{ app signature }}";
 
   @override
